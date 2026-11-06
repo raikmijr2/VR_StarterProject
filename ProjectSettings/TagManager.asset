@@ -28,6 +28,12 @@ TagManager:
   - QDSUITextInputField
   - SamplesInfoPanel
   - QDSUIToggleCheckboxRadio
+  - BackButton
+  - CubeKiller
+  - cubeGun
+  - Sword
+  - cubeSword
+  - SwapCube
   layers:
   - Default
   - TransparentFX
